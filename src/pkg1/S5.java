@@ -21,7 +21,7 @@ class AXIS extends Bank{
 		return 9;
 	}  
 }
-public class MethodOveriding1 {
+public class S5 {
 	public static void main(String args[]){
 		SBI sbi=new SBI();  
 		ICICI icici=new ICICI();  
