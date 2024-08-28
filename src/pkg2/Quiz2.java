@@ -1,4 +1,4 @@
-package pkg1pkg2;
+package pkg2;
 
 import java.io.File;
 import java.io.FileNotFoundException;

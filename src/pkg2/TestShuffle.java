@@ -1,4 +1,4 @@
-package pkg1pkg2;
+package pkg2;
 
 public class TestShuffle {
 	private String question;
