@@ -1,3 +1,4 @@
+//Use of Super Keyword
 package pkg1;
 
 class Animal {
@@ -19,7 +20,7 @@ class Cat extends Dog {
 	  }
 	}
 
-	public class SuperKeyWord1 {
+	public class S6 {
 	   public static void main(String[] args) {
 	      Animal myDog = new Cat(); // Create a Dog object
 	      myDog.animalSound();
