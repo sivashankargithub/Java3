@@ -1,4 +1,4 @@
-//Use of static block
+//Use of static block 2
 package pkg1;
 
 import java.util.ArrayList;
