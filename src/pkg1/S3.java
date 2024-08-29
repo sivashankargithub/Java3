@@ -1,4 +1,5 @@
 //Passing Command Line Arguments
+package pkg1;
 public class S3{
     public static void main(String[] args){
 	    int a = Integer.parseInt(args[0]);

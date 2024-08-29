@@ -1,4 +1,4 @@
-//Constr
+//Constructor Chaining
 package pkg1;
 
 public class S7 {
@@ -16,7 +16,6 @@ public class S7 {
 
 	public static void main(String[] args) {
 		S7 s7 = new S7();
-
 	}
 
 }
