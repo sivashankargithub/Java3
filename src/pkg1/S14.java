@@ -8,6 +8,7 @@ public class S14 {
 	private long mobile;
 	
 	public S14() {
+		
 	}
 	
 	public S14(int id, String name, int age, long mobile) {
