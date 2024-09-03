@@ -1,3 +1,4 @@
+//Off Diamond Shape right side
 package pkg1;
 
 public class S16 {
