@@ -14,7 +14,7 @@ class Bank3 {
 		System.out.println("Balance is : "+balance);
 	}
 	public void withdrawAmount(double amount) {
-		if(this.balance<0) {
+		if(balance<0 | balance < amount) {
 			System.out.println("Insufficient Funds");
 		}
 		else {
